@@ -16,3 +16,7 @@ In May 2019 we [reported](https://www.bbc.co.uk/news/uk-england-48424232) that t
 ## Visualisation
 
 * Bar chart: Average delays at UK airports, 2018
+
+## Previous stories
+
+* In June 2017 we [used the same data for a story on the airports with the longest delays](https://github.com/BBC-Data-Unit/flight-delays)
