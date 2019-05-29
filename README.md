@@ -7,6 +7,7 @@ In May 2019 we [reported](https://www.bbc.co.uk/news/uk-england-48424232) that t
 ## Get the data 
 
 * CAA: [Punctuality statistics 2018](https://www.caa.co.uk/Data-and-analysis/UK-aviation-market/Flight-reliability/Datasets/Punctuality-data/Punctuality-statistics-2018/)
+* CSV: [Average delay by airport, data supplied by Press Association](https://github.com/BBC-Data-Unit/airport-delays/blob/master/airdelays.csv)
 
 ## Quotes and interviews
 
